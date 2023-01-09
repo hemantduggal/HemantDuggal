@@ -2,6 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Hemant Duggal</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hemant Duggal &label=Views&color=blue&style=plastic&style=for-the-badge" alt="Hemant Duggal" /> </p>
 
 
 
