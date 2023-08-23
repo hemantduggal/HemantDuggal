@@ -9,7 +9,7 @@
 # 💫 About Me :
 - 😄 Pronouns: He/His
 - 🌱 I’m currently learning more Programming languages .
-- 🤔 I’m looking for Job in Software Development.
+- 🤔 I’m Doing a Job in Software Development- Microsoft Dynamics Business Central.
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I spend almost 1-2 hours doing practice every day.
 
